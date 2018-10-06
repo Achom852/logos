@@ -13,3 +13,7 @@ The work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 ## Fins us on Meetup
 
 [Frankfurt Rhein-Main Gophers Meetup](https://www.meetup.com/de-DE/gophers-frm)
+
+## Logos 
+
+![prev_standardlogo](logos/gofrm-logo.png)
