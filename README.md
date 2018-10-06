@@ -16,5 +16,5 @@ The work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 
 ## Logos 
 
-![prev_standardlogo](logos/gofrm-logo.png)
-![prev_standardlogo](logos/gofrm-1year-logo.png)
+<img src="./logos/gofrm-logo.png" height="50">
+<img src="./logos/gofrm-1year-logo.png" height="50">
