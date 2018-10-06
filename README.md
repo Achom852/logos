@@ -17,3 +17,4 @@ The work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 ## Logos 
 
 ![prev_standardlogo](logos/gofrm-logo.png)
+![prev_standardlogo](logos/gofrm-1year-logo.png)
